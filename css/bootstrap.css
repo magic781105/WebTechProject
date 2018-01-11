@@ -1632,6 +1632,10 @@ h3,
 h4,
 .h4 {
 	font-size: 18px;
+	/*Start 20180111 YaJuChang*/
+	color: red;
+	font-size: 17px;
+	/*End 20180111 YaJuChang*/
 }
 
 h5,
